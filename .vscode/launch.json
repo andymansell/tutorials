@@ -14,7 +14,7 @@
                 "--config=/home/odoo/odoo.conf",
                 "--database=tutorials",
                 "--addons-path=/home/odoo/odoo/addons/,/home/odoo/addons,/home/odoo/tutorials",
-                // "--update=andy_test"
+                "--update=awesome_dashboard,awesome_owl"
             ]
         }
     ]
